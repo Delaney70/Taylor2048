@@ -1,0 +1,7 @@
+origin/master
+
+cd /pth/to/repo
+git fetch
+git switch your branch
+git rebase origin/master
+git push --force
